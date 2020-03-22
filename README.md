@@ -1,0 +1,1 @@
+A basic shopping-list web app exploring ES6' with stress on learning ES6.
